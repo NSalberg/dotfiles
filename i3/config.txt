@@ -1,0 +1,2 @@
+bindsym $mod+Shift+a move workspace to output left
+bindsym $mod+Shift+f move workspace to output right
