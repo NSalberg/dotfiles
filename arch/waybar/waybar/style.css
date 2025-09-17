@@ -16,9 +16,10 @@
   margin-left: 8px;
 }
 
-.modules-right {
-  margin-right: 8px;
-}
+/* .modules-right { */
+/*   margin-right: 8px; */
+/* } */
+
 
 #workspaces button {
   all: initial;
@@ -38,11 +39,10 @@
 #bluetooth,
 #pulseaudio,
 #clock,
-#custom-omarchy {
-  min-width: 12px;
-  margin: 0 7.5px;
-}
 
+.modules-right > * > *{
+  margin-right: 20px;
+}
 #custom-expand-icon {
   margin-right: 7px;
 }
