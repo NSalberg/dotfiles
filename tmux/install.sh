@@ -1,2 +1,2 @@
-sudo apt install tmux
-cp ./tmux.conf ~/.tmux.conf
+sudo pacman -S install tmux
+cp ./tmux.conf ~/.config/.tmux.conf
