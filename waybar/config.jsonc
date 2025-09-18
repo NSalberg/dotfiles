@@ -82,7 +82,7 @@
         "tooltip-format-disconnected": "MPD (disconnected)"
     },
    "clock": {
-        "format": "{:%A %B %d %H:%M}",
+        "format": "{:%A %B %d %I:%M %p}",
         // "format-alt": "{:%d %B W%V %Y}",
         "tooltip": false,
     },
