@@ -4,6 +4,9 @@ sudo pacman -S fastfetch # essential
 sudo pacman -S hyprland xdg-desktop-portal-hyprland waybar ghostty hyprlock hypridle hyprpaper pavucontrol
 sudo pacman -S firefox ttf-jetbrains-mono-nerd nwg-look
 
+sudo pacman -S dunst libnotify
+mkdir ~/.config/dunst/ && cp /etc/dunst/dunstrc ~/.config/dunst/dunstrc
+
 sudo pacman -S tmux
 
 cp -r ./waybar/ ~/.config/
