@@ -1,7 +1,7 @@
 sudo pacman -Yu
 
 sudo pacman -S fastfetch # essential
-sudo pacman -S hyprland xdg-desktop-portal-hyprland waybar ghostty hyprlock hypridle hyprpaper pavucontrol
+sudo pacman -S hyprland xdg-desktop-portal-hyprland waybar ghostty hyprlock hypridle hyprpaper pavucontrol hyprshot wl-clipboard slurp wf-recorder
 sudo pacman -S firefox ttf-jetbrains-mono-nerd nwg-look
 
 sudo pacman -S dunst libnotify
